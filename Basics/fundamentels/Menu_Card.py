@@ -1,7 +1,0 @@
-head = "allwinshop".upper()
-print(head.center(40,"*"))
-title = "menu".capitalize()
-print(title.center(40,"_"))
-print("idly".ljust(10,".")  + "$1".rjust(5,"."))
-print("Dosa".ljust(10,".")  + "$2".rjust(5,"."))
-print("poori".ljust(10,".")  + "$1.5".rjust(5,"."))
